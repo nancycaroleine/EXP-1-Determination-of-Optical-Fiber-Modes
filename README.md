@@ -65,5 +65,6 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ## Tabulation
 ![output](o1.jpeg)
 ![output](o2.jpeg)
+![output](g1.pdf)
 
 ## Result
