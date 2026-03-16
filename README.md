@@ -63,4 +63,5 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![output](1.jpg)
 ## Result
